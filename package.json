@@ -1,0 +1,24 @@
+{
+  "name": "microbrowser",
+  "version": "1.0.0",
+  "description": "A proxy service consuming web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeologist/microbrowser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeologist/microbrowser/issues"
+  },
+  "homepage": "https://github.com/codeologist/microbrowser#readme",
+  "dependencies": {
+    "express": "4.13.3",
+    "phantomjs": "1.9.19"
+  }
+}

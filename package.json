@@ -20,6 +20,9 @@
   "dependencies": {
     "body-parser": "1.14.1",
     "express": "4.13.3",
-    "phantomjs": "1.9.19"
+    "ioredis": "1.13.0",
+    "phantomjs": "1.9.19",
+    "phantomjs-promise": "0.0.1",
+    "summarize": "1.5.0"
   }
 }
